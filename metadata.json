@@ -1,0 +1,6 @@
+{
+  "name": "AI Scam Guardian",
+  "description": "AI-powered global cybersecurity & scam protection assistant. Inspects screenshots, links, QR codes, APK permissions, and messages for threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
